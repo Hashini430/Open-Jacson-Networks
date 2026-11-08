@@ -17,15 +17,11 @@ Visual components and Python
 
 
 ## Experiment:
-![image](https://github.com/user-attachments/assets/543174fb-c8ca-45d7-8201-8eabacdb9ffc)
+<img width="1041" height="617" alt="595327045-a0e42464-e89d-4286-9c9b-418960b7f2c6" src="https://github.com/user-attachments/assets/b990196c-7892-4fdb-8d18-5e482749bdbe" />
 
 
-
-
-## Program:
-DEVELOPED BY : R.Rabin
-REGISTER NO : 24900518
-
+## Program
+```
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
 ser_time1=float(input("Enter the mean  inter service time of Lathe Machine 1 (in secs) :  "))
 ser_time2=float(input("Enter the mean  inter service time of Lathe Machine 2 (in secs) :  "))
@@ -63,14 +59,13 @@ if (lam <  mu1) and (lam <  mu2) and (lam <  mu3):
 else:
     print("Warning! Objects Over flow will happen in the conveyor")
 print("----------------------------------------------------------------------")
+```
+## Output
+<img width="788" height="514" alt="595326952-8e48ef10-9a67-4844-9d7f-f530dfce1319" src="https://github.com/user-attachments/assets/02f97b9e-332f-467c-8cce-661a442f0dd8" />
 
+## Result
+The average number of material in the system and in the conveyor and waiting time are successfully found.
 
-## Output:
-![image](https://github.com/user-attachments/assets/9630a3d5-f94c-41fa-9a11-3051bd8e4a8a)
-
-
-## Result:
-The average number of material in the sysytem and in the conveyor and waiting time are successfully found
 
 # Link
 https://github.com/Hashini430/Open-Jacson-Networks
